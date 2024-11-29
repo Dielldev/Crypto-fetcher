@@ -1,4 +1,4 @@
-Crypto Fetcher
+# Crypto Fetcher
 Crypto Fetcher is a sleek and responsive web application built with React.js. It fetches real-time cryptocurrency data from an external API and displays it in an intuitive and user-friendly interface.
 
 Features
